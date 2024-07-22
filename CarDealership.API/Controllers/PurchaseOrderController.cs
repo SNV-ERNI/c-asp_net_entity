@@ -21,15 +21,66 @@ public class PurchaseOrderController : ControllerBase
     [HttpGet]
     public IActionResult GetAllEmployee()
     {
-        var purchaseOrder = _context.PurchaseOrderEntities.Include(po => po.Car).Include(po => po.Customer).ToList();
+        var purchaseOrders = _context.PurchaseOrderEntities
+            .Include(po => po.Car)
+            .Include(po => po.Customer)
+            .Select(po => new
+            {
+                OrderID = po.OrderID,
+                Car = new
+                {
+                    po.Car.VIN,
+                    po.Car.Brand,
+                    po.Car.Model,
+                    po.Car.YearVersion,
+                    po.Car.PlateNumber,
+                    po.Car.CarType
+                },
+                Customer = new
+                {
+                    po.Customer.CustomerID,
+                    po.Customer.LastName,
+                    po.Customer.FirstName,
+                    po.Customer.DateOfBirth,
+                    po.Customer.Address,
+                    po.Customer.PhoneNum
+                }
+            })
+            .ToList();
 
-        return Ok(purchaseOrder);
+        return Ok(purchaseOrders);
     }
 
     [HttpGet("{id}")]
     public IActionResult GetPurchaseOrder(int id)
     {
-        var purchaseOrder = _context.PurchaseOrderEntities.Include(po => po.Car).Include(po => po.Customer).ToList();
+        var purchaseOrder = _context.PurchaseOrderEntities
+            .Include(po => po.Car)
+            .Include(po => po.Customer)
+            .Where(po => po.OrderID == id)
+            .Select(po => new
+            {
+                OrderID = po.OrderID,
+                Car = new
+                {
+                    po.Car.VIN,
+                    po.Car.Brand,
+                    po.Car.Model,
+                    po.Car.YearVersion,
+                    po.Car.PlateNumber,
+                    po.Car.CarType
+                },
+                Customer = new
+                {
+                    po.Customer.CustomerID,
+                    po.Customer.LastName,
+                    po.Customer.FirstName,
+                    po.Customer.DateOfBirth,
+                    po.Customer.Address,
+                    po.Customer.PhoneNum
+                }
+            })
+            .FirstOrDefault();
 
         if (purchaseOrder == null)
         {
