@@ -1,0 +1,14 @@
+@CarDealership.API_HostAddress = https://localhost:7281
+
+GET {{CarDealership.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{CarDealership.API_HostAddress}}/weatherforecast
+
+###
+
+GET {{CarDealership.API_HostAddress}}/api/car
+
+###
