@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CarDealership.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5b010070fb56555f561aa8e5c54514579b35954")]
 [assembly: System.Reflection.AssemblyProductAttribute("CarDealership.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CarDealership.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

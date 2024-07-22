@@ -12,3 +12,7 @@ GET {{CarDealership.API_HostAddress}}/weatherforecast
 GET {{CarDealership.API_HostAddress}}/api/car
 
 ###
+
+GET {{CarDealership.API_HostAddress}}/api/purchaseorder
+
+###

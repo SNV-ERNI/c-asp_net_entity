@@ -4619,11 +4619,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Boot Camp\\CarDealership\\CarDealership\\CarDealership.API\\CarDealership.API.csproj",
+      "projectUniqueName": "C:\\Users\\Boot Camp\\CarDealership\\CarDealership.API\\CarDealership.API.csproj",
       "projectName": "CarDealership.API",
-      "projectPath": "C:\\Users\\Boot Camp\\CarDealership\\CarDealership\\CarDealership.API\\CarDealership.API.csproj",
+      "projectPath": "C:\\Users\\Boot Camp\\CarDealership\\CarDealership.API\\CarDealership.API.csproj",
       "packagesPath": "C:\\Users\\Boot Camp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Boot Camp\\CarDealership\\CarDealership\\CarDealership.API\\obj\\",
+      "outputPath": "C:\\Users\\Boot Camp\\CarDealership\\CarDealership.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Boot Camp\\AppData\\Roaming\\NuGet\\NuGet.Config",

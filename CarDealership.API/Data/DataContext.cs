@@ -12,7 +12,6 @@ namespace CarDealership.API.Data
         public DbSet<CarsEntity> CarsEntities { get; set; }
         public DbSet<CustomersEntity> CustomerEntities { get; set; }
         public DbSet<PurchaseOrderEntity> PurchaseOrderEntities { get; set; }
-        public DbSet<TransactionHistoryEntity> TransactionHistoryEntities { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -39,15 +38,6 @@ namespace CarDealership.API.Data
                 .HasOne(po => po.Customer)
                 .WithMany()
                 .HasForeignKey(po => po.CustomerID);
-
-            // Configure TransactionHistoryEntity
-            modelBuilder.Entity<TransactionHistoryEntity>()
-                .HasKey(th => th.TransID);
-
-            modelBuilder.Entity<TransactionHistoryEntity>()
-                .HasOne(th => th.PurchaseOrder)
-                .WithMany()
-                .HasForeignKey(th => th.OrderID);
         }
     }
 }

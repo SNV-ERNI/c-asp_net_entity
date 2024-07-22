@@ -51,7 +51,9 @@ public class PurchaseOrderController : ControllerBase
         _context.PurchaseOrderEntities.Add(purchaseOrder);
         await _context.SaveChangesAsync();
 
-        return CreatedAtAction(nameof(GetPurchaseOrder), new { id = purchaseOrder.OrderID }, purchaseOrderDTO);
+        return Ok("Purchaes Order created!");
+
+        //return CreatedAtAction(nameof(GetPurchaseOrder), new { id = purchaseOrder.OrderID }, purchaseOrderDTO);
     }
 
     [HttpPut("{id:int}")]
@@ -102,6 +104,6 @@ public class PurchaseOrderController : ControllerBase
         _context.PurchaseOrderEntities.Remove(purchaseOrder);
         await _context.SaveChangesAsync();
 
-        return Ok(purchaseOrder);
+        return Ok("Purchase Order deleted!");
     }
 }

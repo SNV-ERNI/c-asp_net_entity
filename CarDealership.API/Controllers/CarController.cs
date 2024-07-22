@@ -73,7 +73,7 @@ namespace CarDealership.API.Controllers
 
             await _context.SaveChangesAsync();
 
-            return Ok(await _context.CarsEntities.ToListAsync());
+            return Ok("Car Details Deleted!");
         }
 
     }
