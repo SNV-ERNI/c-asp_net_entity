@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Boot Camp\\CarDealership\\CarDealership.API\\CarDealership.API.csproj": {}
+    "C:\\Users\\Admin\\Source\\Repos\\c-asp_net_entity\\CarDealership.API\\CarDealership.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Boot Camp\\CarDealership\\CarDealership.API\\CarDealership.API.csproj": {
+    "C:\\Users\\Admin\\Source\\Repos\\c-asp_net_entity\\CarDealership.API\\CarDealership.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Boot Camp\\CarDealership\\CarDealership.API\\CarDealership.API.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Source\\Repos\\c-asp_net_entity\\CarDealership.API\\CarDealership.API.csproj",
         "projectName": "CarDealership.API",
-        "projectPath": "C:\\Users\\Boot Camp\\CarDealership\\CarDealership.API\\CarDealership.API.csproj",
-        "packagesPath": "C:\\Users\\Boot Camp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Boot Camp\\CarDealership\\CarDealership.API\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Source\\Repos\\c-asp_net_entity\\CarDealership.API\\CarDealership.API.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Source\\Repos\\c-asp_net_entity\\CarDealership.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Boot Camp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

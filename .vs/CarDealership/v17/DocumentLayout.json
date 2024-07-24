@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\c-asp_net_entity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CFC6E5-5CC6-4411-97F5-EC28E3CCD30D}|CarDealership.API\\CarDealership.API.csproj|c:\\users\\admin\\source\\repos\\c-asp_net_entity\\cardealership.api\\entities\\purchaseorderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CFC6E5-5CC6-4411-97F5-EC28E3CCD30D}|CarDealership.API\\CarDealership.API.csproj|solutionrelative:cardealership.api\\entities\\purchaseorderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CFC6E5-5CC6-4411-97F5-EC28E3CCD30D}|CarDealership.API\\CarDealership.API.csproj|c:\\users\\admin\\source\\repos\\c-asp_net_entity\\cardealership.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CFC6E5-5CC6-4411-97F5-EC28E3CCD30D}|CarDealership.API\\CarDealership.API.csproj|solutionrelative:cardealership.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CFC6E5-5CC6-4411-97F5-EC28E3CCD30D}|CarDealership.API\\CarDealership.API.csproj|c:\\users\\admin\\source\\repos\\c-asp_net_entity\\cardealership.api\\entities\\carsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CFC6E5-5CC6-4411-97F5-EC28E3CCD30D}|CarDealership.API\\CarDealership.API.csproj|solutionrelative:cardealership.api\\entities\\carsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CFC6E5-5CC6-4411-97F5-EC28E3CCD30D}|CarDealership.API\\CarDealership.API.csproj|c:\\users\\admin\\source\\repos\\c-asp_net_entity\\cardealership.api\\dto\\purchaseorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CFC6E5-5CC6-4411-97F5-EC28E3CCD30D}|CarDealership.API\\CarDealership.API.csproj|solutionrelative:cardealership.api\\dto\\purchaseorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CFC6E5-5CC6-4411-97F5-EC28E3CCD30D}|CarDealership.API\\CarDealership.API.csproj|c:\\users\\admin\\source\\repos\\c-asp_net_entity\\cardealership.api\\entities\\customersentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CFC6E5-5CC6-4411-97F5-EC28E3CCD30D}|CarDealership.API\\CarDealership.API.csproj|solutionrelative:cardealership.api\\entities\\customersentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CFC6E5-5CC6-4411-97F5-EC28E3CCD30D}|CarDealership.API\\CarDealership.API.csproj|c:\\users\\admin\\source\\repos\\c-asp_net_entity\\cardealership.api\\dto\\createpurchasedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CFC6E5-5CC6-4411-97F5-EC28E3CCD30D}|CarDealership.API\\CarDealership.API.csproj|solutionrelative:cardealership.api\\dto\\createpurchasedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CFC6E5-5CC6-4411-97F5-EC28E3CCD30D}|CarDealership.API\\CarDealership.API.csproj|c:\\users\\admin\\source\\repos\\c-asp_net_entity\\cardealership.api\\dto\\updatepurchasedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CFC6E5-5CC6-4411-97F5-EC28E3CCD30D}|CarDealership.API\\CarDealership.API.csproj|solutionrelative:cardealership.api\\dto\\updatepurchasedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CFC6E5-5CC6-4411-97F5-EC28E3CCD30D}|CarDealership.API\\CarDealership.API.csproj|c:\\users\\admin\\source\\repos\\c-asp_net_entity\\cardealership.api\\controllers\\purchaseordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CFC6E5-5CC6-4411-97F5-EC28E3CCD30D}|CarDealership.API\\CarDealership.API.csproj|solutionrelative:cardealership.api\\controllers\\purchaseordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\c-asp_net_entity\\CarDealership.API\\Program.cs",
+              "RelativeDocumentMoniker": "CarDealership.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\c-asp_net_entity\\CarDealership.API\\Program.cs",
+              "RelativeToolTip": "CarDealership.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T02:14:20.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PurchaseOrderEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\c-asp_net_entity\\CarDealership.API\\Entities\\PurchaseOrderEntity.cs",
+              "RelativeDocumentMoniker": "CarDealership.API\\Entities\\PurchaseOrderEntity.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\c-asp_net_entity\\CarDealership.API\\Entities\\PurchaseOrderEntity.cs",
+              "RelativeToolTip": "CarDealership.API\\Entities\\PurchaseOrderEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T02:14:13.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PurchaseOrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\c-asp_net_entity\\CarDealership.API\\Controllers\\PurchaseOrderController.cs",
+              "RelativeDocumentMoniker": "CarDealership.API\\Controllers\\PurchaseOrderController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\c-asp_net_entity\\CarDealership.API\\Controllers\\PurchaseOrderController.cs",
+              "RelativeToolTip": "CarDealership.API\\Controllers\\PurchaseOrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T02:13:29.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarsEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\c-asp_net_entity\\CarDealership.API\\Entities\\CarsEntity.cs",
+              "RelativeDocumentMoniker": "CarDealership.API\\Entities\\CarsEntity.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\c-asp_net_entity\\CarDealership.API\\Entities\\CarsEntity.cs",
+              "RelativeToolTip": "CarDealership.API\\Entities\\CarsEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T02:14:05.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomersEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\c-asp_net_entity\\CarDealership.API\\Entities\\CustomersEntity.cs",
+              "RelativeDocumentMoniker": "CarDealership.API\\Entities\\CustomersEntity.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\c-asp_net_entity\\CarDealership.API\\Entities\\CustomersEntity.cs",
+              "RelativeToolTip": "CarDealership.API\\Entities\\CustomersEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T02:14:06.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PurchaseOrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\c-asp_net_entity\\CarDealership.API\\DTO\\PurchaseOrderDTO.cs",
+              "RelativeDocumentMoniker": "CarDealership.API\\DTO\\PurchaseOrderDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\c-asp_net_entity\\CarDealership.API\\DTO\\PurchaseOrderDTO.cs",
+              "RelativeToolTip": "CarDealership.API\\DTO\\PurchaseOrderDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T02:13:46.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreatePurchaseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\c-asp_net_entity\\CarDealership.API\\DTO\\CreatePurchaseDTO.cs",
+              "RelativeDocumentMoniker": "CarDealership.API\\DTO\\CreatePurchaseDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\c-asp_net_entity\\CarDealership.API\\DTO\\CreatePurchaseDTO.cs",
+              "RelativeToolTip": "CarDealership.API\\DTO\\CreatePurchaseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T02:13:45.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdatePurchaseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\c-asp_net_entity\\CarDealership.API\\DTO\\UpdatePurchaseDTO.cs",
+              "RelativeDocumentMoniker": "CarDealership.API\\DTO\\UpdatePurchaseDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\c-asp_net_entity\\CarDealership.API\\DTO\\UpdatePurchaseDTO.cs",
+              "RelativeToolTip": "CarDealership.API\\DTO\\UpdatePurchaseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T02:13:46.852Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

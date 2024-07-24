@@ -19,7 +19,7 @@ public class PurchaseOrderController : ControllerBase
     }
 
     [HttpGet]
-    public IActionResult GetAllEmployee()
+    public IActionResult GetAllCar()
     {
         var purchaseOrders = _context.PurchaseOrderEntities
             .Include(po => po.Car)
@@ -108,7 +108,7 @@ public class PurchaseOrderController : ControllerBase
     }
 
     [HttpPut("{id:int}")]
-    public IActionResult UpdateEmployee(int id, [FromBody] UpdatePurchaseOrderDTO updatePurchaseDTO)
+    public IActionResult UpdateCar(int id, [FromBody] UpdatePurchaseOrderDTO updatePurchaseDTO)
     {
         if (!ModelState.IsValid)
         {
